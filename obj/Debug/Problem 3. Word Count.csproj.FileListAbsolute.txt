@@ -1,0 +1,9 @@
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\bin\Debug\Problem_3.Word_Count.exe.config
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\bin\Debug\Problem_3.Word_Count.exe
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\bin\Debug\Problem_3.Word_Count.pdb
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\obj\Debug\Problem 3. Word Count.csprojResolveAssemblyReference.cache
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\obj\Debug\Problem_3.Word_Count.exe
+c:\users\kamiifani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 3. Word Count\obj\Debug\Problem_3.Word_Count.pdb
+D:\Programming Folder\AllProjects\Problem 3. Word Count\bin\Debug\Problem_3.Word_Count.exe.config
+D:\Programming Folder\AllProjects\Problem 3. Word Count\obj\Debug\Problem_3.Word_Count.exe
+D:\Programming Folder\AllProjects\Problem 3. Word Count\obj\Debug\Problem_3.Word_Count.pdb
